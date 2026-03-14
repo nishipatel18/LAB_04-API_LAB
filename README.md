@@ -12,7 +12,6 @@ A Flask-based REST API that classifies wine into three categories using chemical
 **Model:** XGBoost Classifier
 **Stack:** Flask, XGBoost, Streamlit, Docker, Google Cloud Run
 
-Result
 
 
 
