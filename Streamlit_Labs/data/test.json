@@ -1,0 +1,14 @@
+{
+    "input_test": {
+        "mean_radius": 17.99,
+        "mean_texture": 10.38,
+        "mean_perimeter": 122.80,
+        "mean_area": 1001.0,
+        "mean_smoothness": 0.1184,
+        "mean_compactness": 0.2776,
+        "mean_concavity": 0.3001,
+        "mean_concave_points": 0.1471,
+        "mean_symmetry": 0.2419,
+        "mean_fractal_dimension": 0.0787
+    }
+}
